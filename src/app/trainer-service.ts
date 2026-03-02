@@ -17,7 +17,25 @@ export class TrainerService {
       name: 'Misty',
       team: ['Starmie', 'Psyduck', 'Gyarados'],
       items: ['Mystic Water', 'None', 'Gyaradosite']
-    }//add 3 more trainers later
+    },
+
+    {
+      name: 'Brock',
+      team: ['Onix', 'Geodude', 'Kabutops'],
+      items: ['Hard Stone', 'Everstone', 'Focus Band']
+    },
+
+    {
+      name: 'Lt. Surge',
+      team: ['Voltorb', 'Electrode', 'Raichu'],
+      items: ['Electric Seed', 'Light Ball', 'Zoom Lens']
+    },
+
+    {
+      name: 'Erika',
+      team: ['Victreebel', 'Tangela', 'Bellossom'],
+      items: ['Absorb Bulb', 'Leftovers', 'Mental Herb']
+    }
 
   ]);
 
